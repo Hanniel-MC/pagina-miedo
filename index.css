@@ -1,0 +1,221 @@
+body{
+	background: rgb(62,229,113);
+background: linear-gradient(0deg, rgba(62,229,113,1) 14%, rgba(0,0,255,1) 100%);
+}
+
+
+
+
+.estilo1
+{
+
+	display:flex;
+	justify-content: space-around;
+	align-items: baseline;
+	font-weight: bold;
+  width: 100%;
+  padding: 1em; 
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgb(62,229,113);
+background: linear-gradient(0deg, rgba(62,229,113,1) 14%, rgba(0,0,255,1) 100%);
+
+
+
+}
+
+
+
+
+.estilo2{
+
+margin: 0;
+	display: flex;                            
+	flex-direction: revert-layer;
+	align-items: baseline;
+	font-weight: bold;
+  width: 100%;
+  padding: 1em;
+  
+  top: 0;
+  z-index: 100;
+}
+
+
+
+nav ul{
+
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 50px;
+}
+
+.estilo3{
+  text-decoration: none;
+	display: flex;
+	justify-content: center;
+	background: rgb(62,229,113);
+background: linear-gradient(0deg, rgba(52,529,143,1) 14%, rgba(0,0,155,1) 100%);
+
+
+}
+
+
+
+.estilo4{
+
+margin: 0;
+  display: flex;                            
+  flex-direction: revert-layer;
+  align-items: baseline;
+  font-weight: bold;
+  width: 100%;
+  padding: 1em;
+  
+  top: 0;
+  z-index: 100;
+
+}
+
+
+
+.my-button a {
+ 
+}
+
+.my-button a {
+	width: 16em;
+ 
+  margin: auto;
+   margin-top: 2px;
+  background-color: #e8c547;
+  border-radius: 15px;
+  
+  font-size: 25px;
+  color: #ffffff;;
+padding: 30px;
+cursor: pointer;
+transition: background-color 0.3s esase-in-out;
+
+
+
+
+
+}
+
+
+.my-button  :hover {
+  background-color:red
+}
+
+.imagenes{
+display:flex;
+  justify-content: space-around;
+  margin-top: 50px;
+
+
+  
+}
+
+.confi{
+  height: 10em;
+  width: 10em;
+  
+}
+
+.imagen123{
+   display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 57px 57px 57px 57px;
+margin: 50px;
+border: 3px solid #30323d;
+  width: 15em;
+  text-align: center;
+  padding: 5em;
+background-image: url('imagen5.jpeg');
+  
+  
+  background-color:#F1F1F4;
+object-fit: cover;
+            transition: transform 0.5s ease-in-out, filter 0.5s ease-in-out;
+
+
+  }
+ .imagen123:hover {
+            transform: scale(1.4) rotate(2deg);
+            filter: grayscale(80%);
+        }
+
+
+
+
+#ultimo{
+  
+  opacity: 1; left: 50%; transform: translate3d(-50%, 75px, 0px) scale(1.1, 1.1);">
+
+}
+
+.ultimo2 {
+  width: 790px;
+background-color: white;
+font-family: sans-serif;
+  margin: auto;
+  transform: translate(-17px,-159px);
+-webkit-transform: translate(-17px,-159px);
+-moz-transform: translate(-17px,-159px);
+
+padding: 35px 80px;
+}
+
+
+
+
+footer{
+   background: #5c80bc;
+  margin: 0;
+ margin-top: -10em;
+  width: 100%;
+  height: auto;
+  padding: 1em;
+  color: #F1F1F4;
+  display: flex;
+  flex-direction: column;
+}
+
+footer a {
+  text-decoration: none;flex: ;
+}
+
+.link{
+  display:flex;
+  justify-content: space-around;
+}
+
+.linktodo{
+  display: flex;
+flex-direction:column;
+justify-content: center;
+aling-items:center;
+
+
+
+
+}
+
+ footer li {
+  list-style: none;
+  display: flex;
+  justify-content: start;
+}
+
+footer h2{
+  display: flex;
+  justify-content: center;
+}
+
+
